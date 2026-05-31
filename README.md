@@ -4,7 +4,7 @@
 This repository contains the completed tasks for the Data Science & Analytics Internship. The goal of these tasks is to build practical skills in data analysis, visualization, and machine learning using Python.
 A total of five tasks have been completed, covering classification, regression, and exploratory data analysis (EDA).
 
-### Tasks Completed
+## Tasks Completed
 
 ### Task 1: Iris Dataset Visualization
 Explored the Iris dataset and created visualizations such as scatter plots, histograms, and boxplots to understand feature relationships.
@@ -22,12 +22,12 @@ Used Linear Regression to predict insurance charges and evaluated the model usin
 Analyzed customer data and built a classification model to predict loan acceptance, identifying key factors influencing customer decisions.
 
 ## Tools & Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+Python 
+Pandas 
+NumPy 
+Matplotlib 
+Seaborn 
+Scikit-learn 
 
 ## Approach
 Each task followed a structured data science workflow:
@@ -60,7 +60,7 @@ Run all cells step by step
 This project demonstrates a strong understanding of basic data science concepts, including data analysis, visualization, and machine learning. It provides a solid foundation for solving real-world data problems.
 
 ## Author
-Abd ur Rahman
+Abd ur Rahman 
 DHC-2091
 
 ## Submission
